@@ -8,7 +8,9 @@ ByteDance/TikTok's front end interview is quite balanced in terms of interview f
 ## JavaScript
 
 - Implement `Promise.all`.
+  - [Practice question on GreatFrontEnd](https://www.greatfrontend.com/questions/javascript/promise-all)
 - Implement a function which extends `Array.prototype`.
+  - [Practice questions on GreatFrontEnd](https://www.greatfrontend.com/questions/coding)
 
 ## User interface coding
 
@@ -17,6 +19,7 @@ ByteDance/TikTok's front end interview is quite balanced in terms of interview f
 ## Trivia
 
 - Difference between `localStorage` and cookies.
+  - [Read answer on GreatFrontEnd](https://www.greatfrontend.com/questions/quiz/html/describe-the-difference-between-a-cookie-sessionstorage-and-localstorage)
 
 ## Algorithm
 

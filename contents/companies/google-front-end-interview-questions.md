@@ -12,10 +12,14 @@ Refer to the [full official Google Interview Preparation Guide for Front End Sof
 ## JavaScript
 
 - Implement the outline view for a Google doc.
+  - [Practice question on GreatFrontEnd](https://www.greatfrontend.com/questions/coding)
 - DFS on HTML nodes.
 - Implement `throttle`.
+  - [Practice question on GreatFrontEnd](https://www.greatfrontend.com/questions/javascript/throttle)
 - How do you make a function that only calls input function f every 50 milliseconds?
+  - [Practice question on GreatFrontEnd](https://www.greatfrontend.com/questions/javascript/throttle)
 - How do you make a function that takes f and returns a function that calls f on a timeout?
+  - [Practice question on GreatFrontEnd](https://www.greatfrontend.com/questions/javascript/debounce)
 - Given a timeline write the JavaScript to select all nodes within selection of timeline.
 
 ## User interface coding
@@ -37,15 +41,18 @@ Example: Number of rows: 4, Number of columns: 5, "Submit" button. Clicking on t
 ## Trivia
 
 - Explain the CSS Box Model.
+  - [Read answer on GreatFrontEnd](https://www.greatfrontend.com/questions/quiz/css/explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-css-to-render-your-layout-in-different-box-models)
 - What happens when you type a URL into the browser and hits enter?
 - Given some text on a web page, how many ways can you make the text disappear?
 - How do you send data from a web page to a server without a page refresh?
+  - [Read answer on GreatFrontEnd](https://www.greatfrontend.com/questions/quiz/javascript/what-are-the-advantages-and-disadvantages-of-using-ajax)
 
 ## System design
 
+- Design emoji autocomplete.
+  - [Read answer on GreatFrontEnd](https://www.greatfrontend.com/questions/system-design/autocomplete)
 - Design JS Bin.
 - How would you create a Google Analytics SDK used by webpages?
-- Design emoji autocomplete.
 
 ## Algorithm
 
